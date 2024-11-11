@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ChalkFix": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "GDWeavePath ": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\WEBFISHING\\GDWeave",
+        "GDWEAVE_DEBUG": "1",
+        "GDWEAVE_CONSOLE": "1"
+      }
+    }
+  }
+}

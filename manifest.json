@@ -1,0 +1,11 @@
+{
+  "Id": "ChalkFix",
+  "AssemblyPath": "ChalkFix.dll",
+  "Metadata": {
+    "Name": "Chalk Fix!",
+    "Author": "starblock",
+    "Version": "1.0.0",
+    "Description": "Fixes a bug introduced in 1.0.9(?) that was offsetting incoming chalk packets. Client-side: chalk is still broken from the perspective of those without the mod."
+
+  }
+}
